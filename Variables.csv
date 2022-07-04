@@ -1,0 +1,27 @@
+Variable number,Variable name,Description
+1,X,ID: 1-50
+2,State name,Name of state
+3,State abbreviation,Abbreviation of state name
+4,Confirmed deaths,"Total deaths in February with confirmed linkages to COVID-19, per million population"
+,,Source: The COVID Tracking Project
+5,Confirmed cases,"Total COVID-19 test results returned positive in February, per million population"
+,,Source: The COVID Tracking Project
+6,Excess deaths,"Average of daily difference between observed deaths and expected deaths in February, per million population"
+,,Source: CDC
+7,Mask-wearing,"Average daily percentage of respondents to Delphi Pandemic Survey who report wearing a mask most or all of the time while in public, from 9 February to 20 February"
+,,Source: CMU COVIDcast
+8,Mobility,"Average percent change from baseline of visits to public transit stations in February, according to Google location data"
+,,Source: Google
+9,Vaccinations,"Total number of vaccinations administered by 28 February, per million population"
+,,Source: Our World in Data
+10,Tests,"Total COVID-19 test results in February, per million population*"
+,,Source: The COVID tracking project
+11,GDP,State GDP per capita
+,,Source: Bureau of Economic Analysis
+12,Population density,Population per square mile
+,,Source: World Population Review
+13,Population,Population of state
+,,Source: World Population Review
+,,"This dataset is a compilation of datasets from various sources. All 50 U.S. states are included. Each line of the dataset provides state identification data, seven variables directly related to COVID-19, and three other variables of interest. Variables related to COVID-19 are aggregates or averages from the month of February 2021."
+,,"* Due to anomalies in data from Wyoming, total test results for that state includes only test results from February 10 to February 28"
+,,"Sources: https://covidtracking.com/data/api, https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm, https://delphi.cmu.edu/covidcast/export/, https://www.google.com/covid19/mobility/, https://ourworldindata.org/us-states-vaccinations, https://www.bea.gov/data/gdp/gdp-state, https://worldpopulationreview.com/state-rankings/state-densities"
