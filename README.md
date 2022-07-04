@@ -5,7 +5,7 @@ Based on a project for a linear regression class in spring 2021
 Factors in COVID-19 Case Counts in the United States
 
 ## YouTube link
-https://youtu.be/4ADDa6QuJRg
+For a presentation of this project, see https://youtu.be/4ADDa6QuJRg
 
 ## Project background
 
