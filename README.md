@@ -19,6 +19,12 @@ H2: Visits to public transportation stations is positively correlated with the n
 
 *β2>0*.
 
+## Data
+
+This dataset is a compilation of datasets from various sources. All 50 U.S. states are included. Each line of the dataset provides state identification data, seven variables directly related to COVID-19, and three other variables of interest. Variables related to COVID-19 are aggregates or averages from the month of February 2021.
+
+See **Variables.csv** for more detaiils.
+
 ## Result highlight
 
 After transformation, there was significant multicollinearity between mask-wearing and mobility and between mask-wearing and population density. To address this, interaction terms were added. Therefore, two additional hypotheses were tested.
