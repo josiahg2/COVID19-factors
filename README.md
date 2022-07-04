@@ -1,7 +1,7 @@
 # COVID19-factors
 Based on a project for a linear regression class in spring 2021
 
-**Project title
+** Project title
 Factors in COVID-19 Case Counts in the United States
 
 * YouTube link
