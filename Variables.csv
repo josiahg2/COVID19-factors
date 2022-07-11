@@ -21,7 +21,7 @@ Variable number,Variable name,Description
 12,Population density,Population per square mile
 ,,Source: World Population Review
 13,Population,Population of state
-,,,
+,,
 ,,Source: World Population Review
 ,,"* Due to anomalies in data from Wyoming, total test results for that state includes only test results from February 10 to February 28"
 ,,"Sources: https://covidtracking.com/data/api, https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm, https://delphi.cmu.edu/covidcast/export/, https://www.google.com/covid19/mobility/, https://ourworldindata.org/us-states-vaccinations, https://www.bea.gov/data/gdp/gdp-state, https://worldpopulationreview.com/state-rankings/state-densities"
