@@ -41,7 +41,7 @@ The hypothesis tests, based on ridge regression and bootstrapping, fail to suppo
 
 From a practical perspective, this seems to indicate that masks are not enough on their own, and that reduced public mobility is more effective in reducing COVID-19 cases. High mask-wearing rates in combination with low public mobility is also associated with low COVID-19 case totals.
 
-## Project references
+## References
 
 Centers for Disease Control and Prevention. (2020, November 20). Science brief: Community use of cloth masks to control the spread of SARS-CoV-2. https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/masking-science-sars-cov2.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fmore%2Fmasking-science-sars-cov2.html
 
