@@ -15,7 +15,7 @@ H0: The reported rate of not wearing masks is positively correlated with the num
 
 *β1>0*.
 
-H2: Visits to public transportation stations is positively correlated with the number of confirmed COVID-19 cases.
+H2: Visits to public transportation stations are positively correlated with the number of confirmed COVID-19 cases.
 
 *β2>0*.
 
