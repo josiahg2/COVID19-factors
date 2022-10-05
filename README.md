@@ -18,7 +18,7 @@ H2: Visits to public transportation stations are positively correlated with the 
 
 ## Data
 
-This dataset is a compilation of datasets from various sources. All 50 U.S. states are included. Each line of the dataset provides state identification data, seven variables directly related to COVID-19, and three other variables of interest. Variables related to COVID-19 are aggregates or averages from the month of February 2021.
+This dataset is a compilation of datasets from various sources. All 50 U.S. states are included. Each line of the dataset provides state identification data, seven variables directly related to COVID-19, and three other variables of interest. Variables related to COVID-19 are aggregates from the month of February 2021.
 
 See **Variables.csv** and **Processing.R** for more details on the variables and the data sources.
 
