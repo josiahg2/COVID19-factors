@@ -6,7 +6,7 @@ For a presentation of this project, see https://youtu.be/4ADDa6QuJRg
 
 ## Project background
 
-Numerous studies have found that wearing masks (Centers for Disease Control and Prevention, 2020; Wang et al., 2020) and reduced mobility (Nouvellet et al., 2021; Badr et al., 2020) decrease the probability of COVID-19 infection. Therefore, we should expect to find that at the aggregate level, U.S. states whose populations wear masks more frequently and use public transit less frequently will have lower increase in confirmed COVID-19 cases. As such, the hypotheses that will be tested are as follows.
+Numerous studies have found that wearing masks (Centers for Disease Control and Prevention, 2020; Wang et al., 2020) and reduced mobility (Nouvellet et al., 2021; Badr et al., 2020) decrease the probability of COVID-19 infection on an individual basis. Therefore, we should expect to find that at the aggregate level, U.S. states whose populations wear masks more frequently and use public transit less frequently will have fewer new COVID-19 cases. As such, the hypotheses that will be tested are as follows.
 
 H0: The reported rate of not wearing masks is positively correlated with the number of confirmed COVID-19 cases.
 
@@ -34,9 +34,9 @@ H4: The interaction of the reported rate of not wearing masks and population den
 
 *β4>0*.
 
-The hypothesis tests, based on ridge regression and bootstrapping, fail to support H1 (p = 0.25) and H4 (p = 0.985), but the data do support H2 (p = 0) and H3 (p = 0). That is, there is not significant evidence that the rate of mask-wearing, on its own, is negatively correlated with COVID-19 cases. Additionally, the data also do not have significant evidence that the rate of not wearing masks and population density are positively correlated with COVID-19 cases. However, there is strong evidence that mobility is positively correlated with COVID-19 cases, and that the interaction of the rate of not wearing masks and mobility is positively correlated with COVID-19 cases.
+The hypothesis tests, based on ridge regression and bootstrapping, fail to support H1 (p = 0.25) and H4 (p = 0.985), but the data do support H2 (p = 0) and H3 (p = 0). That is, there is not significant evidence that the rate of mask-wearing, on its own, is negatively correlated with COVID-19 cases. Additionally, the data also do not have significant evidence that the rate of wearing masks and population density are correlated with COVID-19 cases. However, there is strong evidence that mobility is positively correlated with COVID-19 cases, and that the interaction of the mask-wearing rate and mobility is positively correlated with COVID-19 cases.
 
-From a practical perspective, this seems to indicate that masks are not enough on their own, and that reduced public mobility is more effective in reducing COVID-19 cases. High mask-wearing rates in combination with low public mobility is also associated with low COVID-19 case totals.
+From a practical perspective, this seems to indicate that masks are not enough on their own, and that reduced public mobility is more effective in reducing COVID-19 cases. High mask-wearing rates in combination with low public mobility are also associated with low COVID-19 case totals.
 
 ## References
 
